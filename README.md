@@ -2,7 +2,7 @@
 
 # Collin Pastika
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+software+for+spacecraft%2C+radar%2C+and+defense+systems;C%2B%2B+%7C+ROS2+%7C+Embedded+%7C+Ground+Systems;NASA+%7C+CAE+%7C+UCF+Honors+%7C+Aug+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&background=000000&lines=Building+software+for+spacecraft%2C+radar%2C+and+defense+systems;C%2B%2B+%7C+ROS2+%7C+Embedded+%7C+Ground+Systems;NASA+%7C+CAE+%7C+UCF+Honors+%7C+Aug+2026)](https://git.io/typing-svg)
 
 **Software Engineering Intern @ NASA Kennedy Space Center** | UCF Computer Science, Burnett Honors College
 
