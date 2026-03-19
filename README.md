@@ -22,9 +22,9 @@ CS senior at UCF's Burnett Honors College (3.7 GPA, graduating Aug 2026) with ha
 
 ## Currently Building
 
-- **RE-RASSOR Autonomous Rover** — Team lead on autonomous navigation software for Florida Space Institute's lunar rover. C++, ROS2, Nav2, OpenCV, ARUCO markers, Kubernetes. Multi-threaded SLAM and path planning.
-- **NASA Spaceport Command & Control** — C++ Wireshark dissector plugins parsing multi-protocol telemetry and command data for spacecraft ground systems supporting launch operations at KSC.
-- **Mini-AWACS Radar System** — Modified COTS marine radar for low-altitude airspace scanning. C++, Raymarine API, Qt, OpenCV. Coordinating with SOUTHCOM, DIU, and UCF Senior Design.
+- **RE-RASSOR Autonomous Rover**: Team lead on autonomous navigation software for Florida Space Institute's lunar rover. C++, ROS2, Nav2, OpenCV, ARUCO markers, Kubernetes. Multi-threaded SLAM and path planning.
+- **NASA Spaceport Command & Control**: C++ Wireshark dissector plugins parsing multi-protocol telemetry and command data for spacecraft ground systems supporting launch operations at KSC.
+- **Mini-AWACS Radar System**: Modified COTS marine radar for low-altitude airspace scanning. C++, Raymarine API, Qt, OpenCV. Coordinating with SOUTHCOM, DIU, and UCF Senior Design.
 
 ---
 
