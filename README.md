@@ -16,7 +16,7 @@
 
 ## About
 
-CS senior at UCF's Burnett Honors College (3.7 GPA, graduating Aug 2026) with hands-on experience building mission-critical software at NASA and on $455M military contracts at CAE. Currently developing C++ Wireshark plugins and protocol parsing tools for spacecraft ground systems at Kennedy Space Center — and leading the software team on an autonomous lunar rover platform built on NASA's RASSOR design. US Citizen, clearance-eligible. Seeking full-time aerospace/defense software engineering roles starting Fall 2026.
+CS senior at UCF's Burnett Honors College (3.7 GPA, graduating Aug 2026) with hands-on experience building mission-critical software at NASA and on $455M military contracts at CAE. Currently developing C++ Wireshark plugins and protocol parsing tools for spacecraft ground systems at Kennedy Space Center, and leading the software team on an autonomous lunar rover platform built on NASA's RASSOR design. US Citizen, clearance-eligible. Seeking full-time aerospace/defense software engineering roles starting Fall 2026.
 
 ---
 
