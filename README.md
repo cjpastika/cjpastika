@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+software+for+spacecraft%2C+radar%2C+and+defense+systems;C%2B%2B+%7C+ROS2+%7C+Embedded+%7C+Ground+Systems;NASA+%7C+CAE+%7C+UCF+Honors+%7C+Aug+2026)](https://git.io/typing-svg)
 
-**Software Engineering Intern @ NASA Kennedy Space Center** | UCF Computer Science, Burnett Honors College
+**Software Engineer II & Engineering Leadership Program @ General Dynamics Mission Systems** | UCF Computer Science, Burnett Honors College
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-collin--pastika-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collin-pastika/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-cjpastika-1F6FEB?style=flat-square&logo=amazon-aws&logoColor=white)](http://cjpastika-portfolio.s3-website.us-east-2.amazonaws.com/)
@@ -16,7 +16,7 @@
 
 ## About
 
-CS senior at UCF's Burnett Honors College (3.7 GPA, graduating Aug 2026) with hands-on experience building mission-critical software at NASA and on $455M military contracts at CAE. Currently developing C++ Wireshark plugins and protocol parsing tools for spacecraft ground systems at Kennedy Space Center, and leading the software team on an autonomous lunar rover platform built on NASA's RASSOR design. US Citizen, clearance-eligible. Seeking full-time aerospace/defense software engineering roles starting Fall 2026.
+SWE at General Dynamics Mission Systems in the GDMS Engineering Leadership Program. Currently developing C++ and Java command and control software utilizing MBSE for undersea platforms. In my spare time I am building a non-destructive counter-UAV system as well as an open-source, harness-agnostic hardware/embedded bench any coding agent can plug into over MCP. Georgia Tech M.S. in CS starting Spring 2027 & UCF B.S. in CS (GPA 3.7).
 
 ---
 
