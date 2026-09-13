@@ -23,7 +23,7 @@ SWE at General Dynamics Mission Systems in the GDMS Engineering Leadership Progr
 ## Currently Building
 
 - **Iron Rain** — MAVLink man-in-the-middle firmware on ESP32/ESP-IDF injecting commands over 915 MHz SiK radio, with a Python attack framework targeting ArduPilot/PX4 validated on a real airframe.
-- **Project Sevro** — [see repo](https://github.com/cjpastika/Project-Sevro)
+- **Project Sevro** — MCP server + skill pack giving coding agents autonomous control over real ESP32 hardware. Build, flash, run, and diagnose firmware end-to-end with no human in the loop.
 - **GDMS ELP Capstone** — 6-month full-lifecycle software capstone presenting to GDMS VPs and chief engineers.
 
 ---
@@ -77,7 +77,7 @@ SWE at General Dynamics Mission Systems in the GDMS Engineering Leadership Progr
 | Project | Description | Stack |
 |---|---|---|
 | [**Iron Rain**](https://github.com/cjpastika/Iron-Rain) | MAVLink MitM firmware injecting commands over 915 MHz SiK radio. Python attack framework with 7 ACK-verified modules targeting ArduPilot/PX4 — validated on a real airframe. | C, Python, ESP32/ESP-IDF, MAVLink |
-| [**Project Sevro**](https://github.com/cjpastika/Project-Sevro) | [see repo] | — |
+| [**Project Sevro**](https://github.com/cjpastika/project-sevro) | Open-source MCP server giving coding agents direct control over real embedded hardware — autonomously build, flash, run, and diagnose ESP32 firmware without touching a serial monitor. | Python, MCP, ESP32/ESP-IDF, pyserial |
 | [**RE-RASSOR System Software**](https://github.com/cjpastika/RE-RASSOR) | Team lead — autonomous navigation for FSI's lunar rover built on NASA's RASSOR platform. Multi-threaded SLAM, path planning, ARUCO-based localization across distributed Kubernetes nodes. | C++, ROS2, Nav2, OpenCV, Kubernetes |
 | [**Radio Anti-Jam System**](https://github.com/cjpastika/Radio-Anti-Jam-System) | 3 radio modules (static, frequency hopping, jamming) achieving secure wireless comms over SPI/UART resistant to jamming. Modeled on HAVEQUICK anti-jam architecture. | C++, Arduino, PlatformIO |
 
